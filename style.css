@@ -1,0 +1,13 @@
+body
+{
+background-color: blueviolet;
+}
+.header{
+    display:flex;
+    background-color: crimson;
+    justify-content: space-between;
+}
+.fb{
+    display:flex;
+    justify-content: space-evenly;
+}
